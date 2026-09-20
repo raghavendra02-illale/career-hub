@@ -1,0 +1,6 @@
+{
+  "name": "CareerHub AI",
+  "description": "A multi-user unified career platform with job discovery, resume management, ATS analysis, smart matching, and application tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
